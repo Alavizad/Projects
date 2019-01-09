@@ -1,0 +1,14 @@
+README
+
+Files Submitted:
+
+List.c
+  Linked list ADT 
+List.h
+  header file for List.c
+Lex.c
+  program that uses List ADT to aphabetize files
+ListClient.c
+   provided ListTest
+Makefile
+README
