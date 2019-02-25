@@ -1,0 +1,19 @@
+-------------------------------------------------------------
+Ashley Lavizadeh
+alavizad
+Doubly Linked List ADT
+-------------------------------------------------------------
+
+Lex.java        ................  Program that puts the indices of an array in a list by alphabetical order
+                                  of the corresponding array element.
+
+List.java       ................  Doubly linked list ADT
+
+
+ListClient.java ................. Test client for List.java
+
+
+Makefile        ................. Compiles and cleans
+
+
+
